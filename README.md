@@ -1,5 +1,9 @@
-Artur, Joana, Junzun, Mafalda
-é isso????
+# Grupo Fabulous Four
+## Membros
+Joana Guerra (122712)
+Mafalda Costa (122714)
+Junzun He (122687)
+Artur Nobre (99087)
 
 # ⚠️ This starter is not recommended ⚠️
 
