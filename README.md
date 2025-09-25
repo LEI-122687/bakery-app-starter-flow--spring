@@ -4,6 +4,7 @@ Joana Guerra (122712)
 Mafalda Costa (122714)
 Junzun He (122687)
 Artur Nobre (99087)
+testar Parte E
 
 # ⚠️ This starter is not recommended ⚠️
 
